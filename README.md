@@ -6,8 +6,11 @@ This dataset is a live dataset of Rossman Stores. On analysing this problem we o
 
 Analysing the Dataset by using Exploratory Data Analysis. Using Exponential Moving Averages analyse Trends and Seasonality in Rossmann dataset. Analyse Regression analysis using following prediction analysis, 
 A. Linear Regression Analysis 
+
 B. Elastic Regression ( Lasso and Ridge Regression). 
+
 C. Random Forest Regression. 
+
 D.adaboost and Xgboost).
 
 By applying above algorthim we find accuracy of 98% by Xgboost.
